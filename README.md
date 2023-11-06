@@ -1,3 +1,3 @@
 # Mohammed-Ayyan
-This is my first gushing repository 
+This is my first github repository 
 Author-Ayyan
